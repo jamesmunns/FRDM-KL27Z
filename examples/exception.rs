@@ -58,6 +58,7 @@
 //! See? `r0 = 0x4000a000` that matches our expectations from reading the disassembly.
 
 #![no_main]
+
 #![no_std]
 
 extern crate f3;
